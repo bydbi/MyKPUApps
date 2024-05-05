@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MyKPUApps</string>
+    <string name="tanggal">Tanggal</string>
+    <string name="nik">NIK</string>
+    <string name="nama">NAMA</string>
+    <string name="masukkan_nik">Masukkan NIK</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="masukkan_nama_lengkap">Masukkan Nama Lengkap</string>
+    <string name="noHP">Nomor Handphone</string>
+    <string name="masukkan_nomor_handphone">Masukkan Nomor Handphone</string>
+    <string name="gender">Jenis Kelamin :</string>
+    <string name="laki_laki">Laki-Laki</string>
+    <string name="perempuan">Perempuan</string>
+    <string name="tanggal_pendataan">Tanggal Pendataan</string>
+    <string name="pilih_tanggal">Pilih Tanggal</string>
+    <string name="alamat_rumah">Alamat Rumah</string>
+    <string name="masukkan_alamat_rumah">Masukkan Alamat Rumah</string>
+    <string name="latitude">Latitude :</string>
+    <string name="longitude">Longitude :</string>
+    <string name="cek_lokasi">Cek Lokasi</string>
+    <string name="upload_foto">Upload Foto Proses Pendataan :</string>
+    <string name="kamera">Kamera</string>
+    <string name="galeri">Galeri</string>
+    <string name="simpan">Simpan</string>
+    <string name="hapus">Hapus</string>
+</resources>
